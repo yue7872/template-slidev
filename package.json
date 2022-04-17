@@ -3,7 +3,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "ge": "node generate.js"
   },
   "dependencies": {
     "@slidev/cli": "^0.28.6",
